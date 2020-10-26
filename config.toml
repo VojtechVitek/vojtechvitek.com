@@ -1,0 +1,19 @@
+baseURL = "https://vojtechvitek.com/"
+languageCode = "en-us"
+title = "Vojtech's IT Blog"
+
+# Novela settings
+theme = "github.com/forestryio/hugo-theme-novela"
+
+paginate = 6
+
+[social]
+twitter = "https://twitter.com/VojtechVitek"
+github = "https://github.com/VojtechVitek"
+linkedin = "https://www.linkedin.com/in/vojtechvitek/"
+# instagram = ""
+# dribbble = ""
+# youtube = ""
+
+[taxonomies]
+author = "authors"
